@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin123",
+    "name": "Admin User",
+    "email": "admin@weddingplanner.com",
+    "role": "admin",
+    "permissions": ["manage_users", "manage_events", "manage_vendors", "view_reports"],
+    "lastLogin": "2023-03-10T14:30:25Z"
+  },
+  {
+    "id": 2,
+    "username": "superadmin",
+    "password": "super123",
+    "name": "Super Admin",
+    "email": "superadmin@weddingplanner.com",
+    "role": "super_admin",
+    "permissions": ["manage_users", "manage_events", "manage_vendors", "view_reports", "manage_admins"],
+    "lastLogin": "2023-03-12T09:15:40Z"
+  }
+]

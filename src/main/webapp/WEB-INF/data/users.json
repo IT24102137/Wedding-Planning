@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "username": "user1",
+    "password": "password1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "123-456-7890",
+    "address": "123 Main St, Anytown, USA",
+    "registrationDate": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "username": "user2",
+    "password": "password2",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "phone": "987-654-3210",
+    "address": "456 Oak Ave, Somewhere, USA",
+    "registrationDate": "2023-02-20"
+  }
+]
